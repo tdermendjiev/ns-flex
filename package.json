@@ -26,6 +26,7 @@
     "@nativescript/theme": "~2.3.0"
   },
   "devDependencies": {
+    "@nativescript/ios": "7.2.0",
     "@nativescript/webpack": "~4.0.0"
   },
   "private": "true",
